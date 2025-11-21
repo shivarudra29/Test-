@@ -1,2 +1,2 @@
 My test repo
-Shivrudra is author
+Shivrudra is my name
